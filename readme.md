@@ -1,1 +1,2 @@
 # inside-git
+some text
